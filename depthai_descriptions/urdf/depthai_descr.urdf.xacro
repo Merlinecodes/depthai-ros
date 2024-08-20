@@ -2,7 +2,7 @@
 <robot name="depthai_camera" xmlns:xacro="http://ros.org/wiki/xacro">
 
     <xacro:arg name="camera_name"   default="oak" />
-    <xacro:arg name="camera_model"  default="OAK-D" />
+    <xacro:arg name="camera_model"  default="OAK-D-PRO" />
     <xacro:arg name="base_frame"    default="oak-d_frame" />
     <xacro:arg name="parent_frame"  default="oak-d-base-frame" />
     <xacro:arg name="cam_pos_x"     default="0.0" />
